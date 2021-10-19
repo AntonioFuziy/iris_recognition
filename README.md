@@ -2,11 +2,13 @@
 A project using computer vision o identify iris using eyes images
 
 ___
-## Intergrantes
+## Integrantes
 
 <a href="https://github.com/AntonioFuziy">
   Antonio Fuziy
 </a>
+
+<br/>
 
 <a href="https://github.com/VergaraC">
   Victor Vergara
