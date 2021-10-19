@@ -16,17 +16,13 @@ ___
 
 ## Descrevendo os notebooks do repositório
 
-- **Iris_Recognition**
-
-  <a href="https://github.com/AntonioFuziy/iris_recognition/blob/main/Iris_Recognition.ipynb">
+- <a href="https://github.com/AntonioFuziy/iris_recognition/blob/main/Iris_Recognition.ipynb">
     Iris_Recognition
   </a>
 
   Nesse notebook estão presentes o tratamento das pastas com as imagens das iris, além do treino e teste das imagens e a conversão delas todas utilizando método escolhido pelo grupo. 
 
-- **iterations**
-
-  <a href="https://github.com/AntonioFuziy/iris_recognition/blob/main/iterations.ipynb">
+- <a href="https://github.com/AntonioFuziy/iris_recognition/blob/main/iterations.ipynb">
     iterations
   </a>
 
